@@ -1,0 +1,2 @@
+a :- ((g,g);(g;g),(l,p,u));(e,f,f,f,e;f,f),(l).
+e :- (j,d,d,d,d,d,(k;d;d;d;d,d,d,d,d),dok,ded).
